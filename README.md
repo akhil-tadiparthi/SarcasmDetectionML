@@ -1,6 +1,6 @@
 # English Sarcasm Detection using the RoBERTa Model
 
-For the group project we chose to do the Task A from the [iSarcasamEval](https://github.com/iabufarha/iSarcasmEval). 
+For my project, I chose to do the Task A from the [iSarcasamEval](https://github.com/iabufarha/iSarcasmEval). 
 
 ## Task Details
 SubTask A: Given a text, determine whether it is sarcastic or non-sarcastic;
